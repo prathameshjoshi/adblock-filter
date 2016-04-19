@@ -1,0 +1,78 @@
+[Adblock Plus 2.0]
+! Checksum: Tfmcjm74D6p8jW/rpHqmXg
+! [Ad Blocking Rules]/blocking
+||player.moneycontrol.com/v7/jwplayer/*
+||cdn.gotraffic.net/projector/v0.8.4/*
+||player.in.com/v7/jwplayer/*
+||lmaflv.edgesuite.net/player/*
+||js.etimg.com/googletiladsense_stn_v14.cms
+||platform.twitter.com/widgets.js
+||businessinsider.in/js_google_mid_ad/*
+! [Exception Rules]/whitelist
+@@||vipleague.tv^$document
+@@||vipbox.sx^$document
+@@|http://www.hdmovieswatch.net/kung-fu-panda-3-full-movie-online-2/|$document
+! [Element Hiding Rules]/elemhide
+economictimes.indiatimes.com###shareVert
+watchseries.li##IFRAME[src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196575573&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"]
+moneycontrol.com##.wbgnw
+moneycontrol.com##.FR.col_right_180.PR7
+moneycontrol.com###gme_subcribe
+moneycontrol.com##.login_box
+moneycontrol.com###Moneycontrol\/MC_HP\/MC_HP_180x300_1_div
+moneycontrol.com###mc_newsLetter
+moneycontrol.com##.clBx
+moneycontrol.com##.cnbc_live180.MT20
+moneycontrol.com##.PT5.PL20.PR20
+moneycontrol.com###cnbcPromoMc
+moneycontrol.com##.Debate_blk.brdrBl_top.MB20
+moneycontrol.com###follow_elem_div
+moneycontrol.com###mosl_banner
+moneycontrol.com##.trade_brbx.MT20
+moneycontrol.com##.PA15
+moneycontrol.com###BtmStock
+economictimes.indiatimes.com###header
+economictimes.indiatimes.com##.highlight_band.m_top_hover.datadone
+economictimes.indiatimes.com##.m_top_ad.m_top_hover.hidden
+economictimes.indiatimes.com##A[href="http://economictimes.indiatimes.com/etgbs.cms?&utm_source=ETSLOT_HOMEPAGE&utm_medium=ETSITE&utm_campaign=ETGBS"]
+watchseries.li##DIV[style="padding: 5px; border-bottom: solid 2px #FF5722;"]
+watchseries.li##.notify
+moneycontrol.com##.col_ktk.MR15
+mmb.moneycontrol.com###trendingBox
+mmb.moneycontrol.com###Topic_TOP
+mmb.moneycontrol.com##.MB10
+mmb.moneycontrol.com###usu_form
+mmb.moneycontrol.com##.PT10
+moneycontrol.com###mnRight
+mmb.moneycontrol.com##.inn_topim
+mmb.moneycontrol.com##.PL15
+mmb.moneycontrol.com##.mmb_anchbx.MT15
+timesofindia.indiatimes.com##.toiwidgets_social
+moneycontrol.com###fvcallout1
+mmb.moneycontrol.com###result_popout
+mmb.moneycontrol.com##BODY
+mmb.moneycontrol.com##IMG[src="http://img-d03.moneycontrol.co.in/images/promo/2015/16122015/Download-App-Banner_180X200_v1.jpg"]
+mmb.moneycontrol.com##.PT40
+mmb.moneycontrol.com###menu
+mmb.moneycontrol.com###m3_ystck_rhs
+mmb.moneycontrol.com##.fd_message_bx
+economictimes.indiatimes.com##DIV[style="padding:5px 10px"]
+economictimes.indiatimes.com###v_times_now
+economictimes.indiatimes.com##.v_selector
+economictimes.indiatimes.com##EMBED[flashvars="surl=http://uploadmisc.indiatimes.com/etnow_audio.smil&volume=0.5"]
+economictimes.indiatimes.com##HTML
+moneycontrol.com##.mc_header_new.clerfix
+moneycontrol.com###mosl_messg_div
+timesofindia.indiatimes.com##EMBED[flashvars="id=timesnow&audio=0&autoplay=1&config&isTimer=0&stopStream=0&afb=0&feed=bgfeed"]
+timesofindia.indiatimes.com##.box_head
+timesofindia.indiatimes.com###livePlayer
+moneycontrol.com##DIV[style="width:260px;height:220px;font-family:arial;font-size:15px;line-height:21px;background:#225597;padding:10px 20px 20px 20px;border-radius:10px;color:#fff;"]
+moneycontrol.com##.gL_11
+moneycontrol.com###tata-aia-div
+moneycontrol.com###img2
+! [Facebook Hide]
+https://*-edge-chat.facebook
+! [Business Insider]
+http://ad.crwdcntrl.net/5/c=2800/pe=y/var=_ccaud
+http://ad.crwdcntrl.net/5/c=2800/pe=y/var=_ccaud
+http://www.businessinsider.in/js_adsperfectmarket/minify-1,version-6,call-new.cms
