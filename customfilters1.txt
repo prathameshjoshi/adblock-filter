@@ -1,35 +1,17 @@
 [Adblock Plus 2.0]
-! Checksum: pInkocZAXoroyJ/JyN2Itg
+! Checksum: Me48k4Cg3X48ATYyMHFr2A
 ! [Ad Blocking Rules]/blocking
 ||player.moneycontrol.com/v7/jwplayer/*
 ||cdn.gotraffic.net/projector/v0.8.4/*
-||x.kinja-static.com/assets/packaged-js/AdModule.9cf94c0ca08ef29a9bd9.en-US.js
-||googletagservices.com^
-||amazon-adsystem.com^
-||vidible.tv^*/gravity.js
-||vidible.tv^*/comscorestreamsense.js
-||vidible.tv^*/ComScore.StreamSense.js
-||a.disquscdn.com/next/embed/*
 ||player.in.com/v7/jwplayer/*
 ||lmaflv.edgesuite.net/player/*
 ||js.etimg.com/googletiladsense_stn_v14.cms
 ||platform.twitter.com/widgets.js
 ||businessinsider.in/js_google_mid_ad/*
-|https://apis.google.com/_/scs/abc-static^
-||googletagservices.com/tag/js/*
-||gigya.com^
-||browser-update.org^
-||crunchbase.com/crunchbase_native_ad_units.json
-||platform.linkedin.com^
-||cdns.gigya.com/JS/*
-||de8of677fyt0b.cloudfront.net/adrum/*
-||addthis.com^
-||disqus.com^
-||a.disquscdn.com/next/embed/lounge.bundle.fe2b2c667f5c2639e3afea2d56bab4c9.js
-||disquscdn.com^
-||s7.addthis.com^
-||google.com/js/bg/Rf2QnA3orEL6Eez56HJgxRuQ77qJyxbefnbSCBE0iUQ.js
-||google-analytics.com^
+||amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||googletagservices.com^
+||x.kinja-static.com/assets/packaged-js/AdModule.9cf94c0ca08ef29a9bd9.en-US.js
 ! [Exception Rules]/whitelist
 @@||vipleague.tv^$document
 @@||vipbox.sx^$document
