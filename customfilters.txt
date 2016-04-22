@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pInkocZAXoroyJ/JyN2Itg
+! Checksum: 8oMfIur2s8JxeaSlmM8eRw
 ! [Ad Blocking Rules]/blocking
 ||player.moneycontrol.com/v7/jwplayer/*
 ||cdn.gotraffic.net/projector/v0.8.4/*
@@ -30,6 +30,12 @@
 ||s7.addthis.com^
 ||google.com/js/bg/Rf2QnA3orEL6Eez56HJgxRuQ77qJyxbefnbSCBE0iUQ.js
 ||google-analytics.com^
+||vuukle.com^
+||roofandfloor.com^
+|https://apis.google.com/_/scs/apps-static/*
+||apis.google.com/js/client:plusone.js?*
+||apis.google.com/js/rpc:shindig_random.js?*
+||apis.google.com/js/client:platform.js
 ! [Exception Rules]/whitelist
 @@||vipleague.tv^$document
 @@||vipbox.sx^$document
